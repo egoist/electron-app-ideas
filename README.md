@@ -1,4 +1,1 @@
-# electron-app-ideas
-
-
-[Request an Electron app](https://github.com/egoist/electron-app-ideas/issues/new) you wish existed or [get ideas for new app](https://github.com/egoist/electron-app-ideas/issues).
+Deprecated in favor of [egoist/ideas](https://github.com/egoist/ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aelectron-app)
